@@ -12,7 +12,7 @@ This is a fully Automated Project- Which contain three   Spreadsheets (DATA,SAVE
 
 
 ##  How's It Work
-This is a automated Employee Record Data Workbook,which contains three sheets. In the  first " DATA" Sheet here is a Employee entry form ,where we have to enter the employee's all informations one by one and press save  button. After pressing on save  button, it will be automatically updated in the "SAVE DATA" sheet's TABLE. This table shows all save record of our employees. 
+This is a automated Employee Record Data Workbook,which contains three sheets. In the  first " DATA" Sheet here is a Employee informations form ,where we have to enter the employee's all informations one by one and press save  button. After pressing on save  button, it will be automatically updated in the "SAVE DATA" sheet's TABLE. This table shows all save record of our employees. 
 ## Screenshots
 
 1. Here we enter all informations.
