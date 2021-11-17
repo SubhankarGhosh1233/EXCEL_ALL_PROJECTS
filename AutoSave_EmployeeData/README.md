@@ -24,6 +24,7 @@ This is a automated Employee Record Data Workbook, which contains three sheets. 
 
 
 3.Press Save button.
+
 ![App Screenshot](https://snipboard.io/UEqPMo.jpg)
 
 4.After saving , it will be automatically updated in the "SAVE DATA" sheet's TABLE.
