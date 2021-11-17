@@ -12,7 +12,7 @@ This is a fully Automated Project- Which contain three   Spreadsheets (MAIN DATA
 
 
 ##  How's It Work
-This is a automated Student Payment Workbook,which contains three sheets. In the  "MAIN DATA" Sheet here is a Student entry table,where we have to enter the Student's name and enrolled course. It will be automatically updated in the "STATUS" sheet.Now,as the student will pay the installment,automatically all info will get updated in the student info table also.
+This is a automated Student Payment Workbook,which contains three sheets. In the  "MAIN DATA" Sheet here is a Student entry table,where we have to enter the Student's name and enrolled course. It will be automatically updated in the "STATUS" sheet.Now,as the student will pay the installment, automatically all info will get updated in the student info table also.
 ## Screenshots
 
 1
