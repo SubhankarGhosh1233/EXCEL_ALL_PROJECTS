@@ -12,13 +12,10 @@ Build an interactive Dashboard using the source data folder which will visualize
 2. add a 'line with Marker Chart' for Visualization.
 ## Screenshots
 1. All sales data of Four companies in "BRAND_DATA" sheet.
-
 ![App Screenshot](https://snipboard.io/HVuniP.jpg)
 
 
 2. Here the  line chart  shows the sales by the year 2019 to 2021.
-
-
 ![App Screenshot](https://snipboard.io/sYzK0P.jpg)
 
 
