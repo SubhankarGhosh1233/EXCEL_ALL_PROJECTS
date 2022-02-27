@@ -13,5 +13,5 @@ Build an interactive Dashboard using the source data folder which will visualize
 2. Here the line chart shows the sales by the year 2019 to 2021.
 
 ![App Screenshot](https://snipboard.io/RwxzDA.jpg)
-Data validation on "E3"cell allows us to change company.
+3. Data validation on "E3"cell allows us to change company.
 ![App Screenshot](https://snipboard.io/sLIqRK.jpg)
