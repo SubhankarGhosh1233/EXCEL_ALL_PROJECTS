@@ -15,7 +15,6 @@ Build an interactive Dashboard using the source data folder which will visualize
 
 ![App Screenshot](https://snipboard.io/HVuniP.jpg)
 
-###Screenshots
 2. Here the  line chart  shows the sales by the year 2019 to 2021.
 
 
